@@ -1,4 +1,4 @@
-import mathh   # WRONG import
+import math
 
 def add(a, b):
     return a + b
